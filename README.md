@@ -114,3 +114,52 @@ Amazon Web Services (AWS) is a secure cloud services platform which is offering 
 
 ![lin_7](https://cloud.githubusercontent.com/assets/17094710/17266923/44848138-561c-11e6-9ce0-7479b5ecc655.png)
 
+
+04. Create Amazon RDB MySQL Database Engine
+
+4.1 Prerequisites
+      
+          * Create Amazon Web Service Free tier account
+          * Good Internet connection
+
+4.2 Launch DB Instance
+
+          * Sign in to the AWS Management console and open the Amazon RDS console at https://console.aws.amazon.com/rds/ .
+
+![db_1](https://cloud.githubusercontent.com/assets/17094710/17267066/157b93e2-561f-11e6-8792-eb7a546b88f4.png)
+
+          * Select the region in where do you want to create the Database instance.
+
+![db_2](https://cloud.githubusercontent.com/assets/17094710/17267068/15bfc198-561f-11e6-8222-f757e5310c9f.png)
+
+          * Click Get Started Now to start the Launch DB Instance wizard.
+
+![db_3](https://cloud.githubusercontent.com/assets/17094710/17267070/15c691bc-561f-11e6-88c1-ed2e9047f5f2.png)
+
+          * Select preferred Database engine to launching and Click Select button.
+
+![db_4](https://cloud.githubusercontent.com/assets/17094710/17267069/15c644b4-561f-11e6-8382-5f3c5608854d.png)
+
+          * Select the correct plan and Click Next Step button.
+
+![db_5](https://cloud.githubusercontent.com/assets/17094710/17267071/15c94d76-561f-11e6-85bc-d35524daa194.png)
+
+          * Enter or Select Database specific details in Specify DB Details tab and Click Next Step button
+![screenshot from 2016-07-23 18-13-12](https://cloud.githubusercontent.com/assets/17094710/17267129/ee81317e-561f-11e6-931b-fdaa45beaf9e.png)
+![db_7](https://cloud.githubusercontent.com/assets/17094710/17267072/15ccfa20-561f-11e6-80c3-523b24c85332.png)
+
+          * Configure advanced settings in next tab and Click Launch DB Instance button.
+
+![screenshot from 2016-07-23 18-14-46](https://cloud.githubusercontent.com/assets/17094710/17267153/3378d2a0-5620-11e6-8da2-d4ed200a6bf7.png)
+![screenshot from 2016-07-23 18-14-54](https://cloud.githubusercontent.com/assets/17094710/17267158/5b8f5048-5620-11e6-98ea-6d6f5c0f3e83.png)
+![db_10](https://cloud.githubusercontent.com/assets/17094710/17267067/15a71f44-561f-11e6-94a9-3f60503e13a6.png)
+
+          * After launching DB instance, Users can connect to the database by using DB Instance name, Master Username and Master Password.
+          
+![screenshot from 2016-07-23 18-15-28](https://cloud.githubusercontent.com/assets/17094710/17267167/92c3e970-5620-11e6-93f1-1d2a34787f62.png)
+
+          
+05. References
+
+          * AWS - 
+          * Google -
