@@ -126,11 +126,9 @@ Amazon Web Services (AWS) is a secure cloud services platform which is offering 
 
           * Sign in to the AWS Management console and open the Amazon RDS console at https://console.aws.amazon.com/rds/ .
 
-![db_1](https://cloud.githubusercontent.com/assets/17094710/17267066/157b93e2-561f-11e6-8792-eb7a546b88f4.png)
+![db_2](https://cloud.githubusercontent.com/assets/17094710/17267068/15bfc198-561f-11e6-8222-f757e5310c9f.png)
 
           * Select the region in where do you want to create the Database instance.
-
-![db_2](https://cloud.githubusercontent.com/assets/17094710/17267068/15bfc198-561f-11e6-8222-f757e5310c9f.png)
 
           * Click Get Started Now to start the Launch DB Instance wizard.
 
