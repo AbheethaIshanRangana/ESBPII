@@ -159,5 +159,5 @@ Amazon Web Services (AWS) is a secure cloud services platform which is offering 
           
 05. References
 
-          * AWS - 
-          * Google -
+          * AWS - http://docs.aws.amazon.com
+          * Google - http://google.com
