@@ -33,4 +33,4 @@ Amazon Web Services (AWS) is a secure cloud services platform which is offering 
 
           * Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/ .
           
-          ![Alt text](https://github.com/AbheethaIshanRangana/ESBPII/blob/master/DB_1.png?raw=true "Optional Title")
+          
