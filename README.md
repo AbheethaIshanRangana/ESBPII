@@ -66,3 +66,51 @@ Amazon Web Services (AWS) is a secure cloud services platform which is offering 
           * After launching Windows AMI, Users can connect with Windows instance by clicking Connect button. Then it will prompt window to download Remote Desktop File and user credentials.
           
 ![win_8](https://cloud.githubusercontent.com/assets/17094710/17266675/cabb099c-5618-11e6-91ab-f76f052bb7e9.png)
+
+
+03. Create Amazon EC2 Linux Instance
+
+3.1 Prerequisites
+      
+          * Create Amazon Web Service Free tier account
+          * Good Internet connection
+
+3.2 Launch an Instance & Connect
+
+          * Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/ and Select EC2 link.
+          
+![db_1](https://cloud.githubusercontent.com/assets/17094710/17266617/03b9bd2a-5618-11e6-9ec9-32257a4eda2e.png)
+
+          * Select Launch Instance from the console dashboard.
+          
+![lin_1](https://cloud.githubusercontent.com/assets/17094710/17266917/44548ed8-561c-11e6-9271-1903eef67617.png)
+
+          * Choose an Linux Amazon Machine Image (AMI) which has labeled as “Free tier eligible” and click Select button.
+
+![lin_2](https://cloud.githubusercontent.com/assets/17094710/17266918/44573872-561c-11e6-8d4a-6e8b6ef6b691.png)
+
+          * On the Choose an Instance Type tab, select the t2.micro type which is selected by default in “Free tier plan” in aws. And click Review and Launch button.
+
+![lin_3](https://cloud.githubusercontent.com/assets/17094710/17266919/44596872-561c-11e6-9c8b-b9356c7c4793.png)
+
+          * Select or Enter suitable instance details in Configure Instance Details tab.
+          
+![lin_4](https://cloud.githubusercontent.com/assets/17094710/17266920/445d8a56-561c-11e6-9b0a-0f829bbb5d93.png)
+
+          * Select an existing Security group or Create a new Security group for the Linux instance in Configure Security Group tab and Click Review and Launch button.
+          
+![win_5](https://cloud.githubusercontent.com/assets/17094710/17266672/ca9e83bc-5618-11e6-9140-a97618a503a7.png)
+          
+
+          * Review all the Configured details in Review Instance Launch tab and Select Launch button.
+
+![lin_5](https://cloud.githubusercontent.com/assets/17094710/17266921/44614bbe-561c-11e6-8ba1-721244f9332a.png)
+
+          * When prompted for a key pair, Select Choose an existing key pair or Create new key pair and download .perm file to the PC and save in secure place. Also change the permission of .pem file to 400. (chmod 4000 <path/to/.pem/file>)
+          
+![lin_6](https://cloud.githubusercontent.com/assets/17094710/17266922/4462f702-561c-11e6-9457-4b1c5b4c1ee8.png)
+
+          * After launching Linux AMI, Users can connect with the instance by using key pair.
+
+![lin_7](https://cloud.githubusercontent.com/assets/17094710/17266923/44848138-561c-11e6-9ce0-7479b5ecc655.png)
+
